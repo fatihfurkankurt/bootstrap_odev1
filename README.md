@@ -1,3 +1,3 @@
 # bootstrap_odev1
 
-Link:
+Link: https://fatihfurkankurt.github.io/bootstrap_odev1/
